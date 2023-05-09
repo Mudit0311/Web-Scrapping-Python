@@ -8,6 +8,7 @@
 
 **Results** : Extracted the data for top 250 Imdb movies. The data collected for 16 attributes dumped in a excel file.
 
+**Code**:
 
 1- 250_IMDB_final.xlsx : contains all the data for top 250 IMDb movies.
 
