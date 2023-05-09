@@ -1,4 +1,4 @@
-**WEB SCRAPPING**
+**IMDB WEB SCRAPPING**
 
 **Description** : I have presented here a Web scraping program to collect data on IMDB top 250 rated movies. I have extracted the movie ratings and their details. The extracted data contains the information on 16 attributes like : Name, Release year and Month, Director, Production, Rating, Genre, Worldwide collection, Budget, etc.
 
